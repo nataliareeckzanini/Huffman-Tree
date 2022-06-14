@@ -1,7 +1,7 @@
 INFORMATION ABOUT THIS PROJECT: 
 
 Huffman Coding Assignment 
-For CS211, Bellevue College, Fall 2013  
+For CS211, Bellevue College 
 (original from Marty Stepp, UW CSE 143, modified for Bellevue College) 
  
 For this last CS211 assignment, you are to submit the following Java code for a Huffman Tree data structure, along with the Huffman Node structure that you have used.   
